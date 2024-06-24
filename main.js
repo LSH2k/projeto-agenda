@@ -18,7 +18,7 @@ function adicionaLinha() {
     telNome.push(inputNome.value)
     telNum.push(inputNum.value)
 
-    let = linha = '<tr>'
+    let linha = '<tr>'
     linha += `<td>${inputNome.value}</td>`
     linha += `<td>${inputNum.value}</td>`
     linha += '</tr>'
